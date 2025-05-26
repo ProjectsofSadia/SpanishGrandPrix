@@ -4,7 +4,7 @@ Welcome to **SpanishPrix** — an app that predicts Formula 1 race outcomes usin
 Built with FastF1, scikit-learn, and Streamlit, this app forecasts winners, visualizes confidence levels, and even predicts the full podium!
 
 ### 🚗 Features
-- ✅ **Live Driver Selection** by name (not code!)
+- ✅ **Live Driver Selection** by name
 - 🧠 **ML Model Trained** on real 2023 Spanish GP lap data
 - 📊 **Confidence Bar Charts** for predicted winner
 - 🖼️ **Driver Image Display** on selection
