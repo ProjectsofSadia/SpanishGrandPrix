@@ -1,6 +1,6 @@
-# 🏁SpanishPrix: Real-Time F1 Winner Prediction Dashboard
+# SpanishPrix: Real-Time F1 Winner Prediction Dashboard
 
-Welcome to **SpanishPrix** — an app that predicts Formula 1 race outcomes using real telemetry data from the Spanish Grand Prix.  
+Welcome to SpanishPrix - an app that predicts Formula 1 race outcomes using real telemetry data from the Spanish Grand Prix.  
 Built with FastF1, scikit-learn, and Streamlit, this app forecasts winners, visualizes confidence levels, and even predicts the full podium!
 
 ### 🚗 Features
